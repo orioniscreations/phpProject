@@ -10,6 +10,5 @@
 
 	<p>Orionis Creations &copy; <?php echo date('Y'); ?></p>
 	<p>Applications Development, PHP Assignment</p>
-			
-			
+					
 </div>
